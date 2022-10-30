@@ -2794,3 +2794,9 @@
 - Place: New Delhi, Delhi, India
 - Bio: Final Year undergrad pursuing B.tech in Computer Science Engineering
 - GitHub: [OGdhruv](https://github.com/ogdhruv)
+
+#### Name: [Rishabh Ranka](https://github.com/Rishabh000)
+
+- Place: Indore, Madhya Pradesh, India
+- Bio: I am a Computer Science Engineering student from Institute Of Engineering and Technology, DAVV
+- GitHub: [Rishabh000](https://github.com/Rishabh000)
